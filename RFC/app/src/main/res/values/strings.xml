@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RFC</string>
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="nombre_persona">Nombre</string>
+    <string name="apellido_materno">Apellido Materno</string>
+    <string name="calcular_RFC">Calcular RFC</string>
+</resources>
